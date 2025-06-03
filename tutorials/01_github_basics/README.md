@@ -41,6 +41,7 @@ git push origin my-branch
 
 ## Quiz
 	1.	What command is used to upload local commits to GitHub?
+ git commit xxx
 	2.	How do you switch to a new branch?
 	3.	What is the purpose of .gitignore?
 
