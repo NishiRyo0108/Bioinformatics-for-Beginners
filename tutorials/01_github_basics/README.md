@@ -45,7 +45,9 @@ git push origin my-branch
 	2.	How do you switch to a new branch?
 	3.	What is the purpose of .gitignore?
 
-test------------------------------------------------------------------
-
+## Answer 2025/06/06
+        1.  git add
+	2.  git checkout -b my-branch
+        3.  I don't know
 
 
